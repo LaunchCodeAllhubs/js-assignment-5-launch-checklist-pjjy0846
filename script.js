@@ -1,4 +1,3 @@
-// Write your JavaScript code here!
 
 //const { formSubmission, myFetch, pickPlanet, addDestinationInfo } = require("./scriptHelper");
 
